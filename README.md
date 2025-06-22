@@ -24,7 +24,7 @@ This repository contains the palette for vyh **Yin**. It is a light mode palette
 	</tr>
 	<tr>
 		<td></td>
-		<td>Rosewater (not sure what to change it to)</td>
+		<td>Cipher</td>
 		<td><code>#f5e0dc</code></td>
 		<td><code>rgb(245, 224, 220)</code></td>
 		<td><code>hsl(10, 56%, 91%)</code></td>
